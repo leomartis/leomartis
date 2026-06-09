@@ -1,68 +1,72 @@
 # 👋 Olá, eu sou Leonardo José
 
 💻 Desenvolvedor Full Stack em formação  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UnEduvale  
-📍 Interior de São Paulo - Brasil
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - UnEduvale  
+📍 São Paulo, Brasil
+
+---
 
 ## 🚀 Sobre mim
 
-Tenho 20 anos e sou apaixonado por tecnologia e desenvolvimento de software. Atualmente estudo Análise e Desenvolvimento de Sistemas e busco aprimorar minhas habilidades em desenvolvimento web, mobile e banco de dados.
+Tenho 20 anos e sou apaixonado por tecnologia e desenvolvimento de software. Atualmente desenvolvo projetos utilizando Vue.js, TypeScript, Node.js e Firebase, buscando aprimorar meus conhecimentos em desenvolvimento web e mobile.
+
+---
 
 ## 🛠️ Tecnologias
 
-### Front-end
-- JavaScript
-- TypeScript
-- Vue.js
-- React 
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs,mysql,firebase,git,github,vscode" />
+</div>
 
-### Back-end
-- Node.js
-- Express
-- Python
+---
 
-### Banco de Dados
-- MySQL
-- Firebase Firestore
+## 📂 Projetos
 
-### Ferramentas
-- Git
-- GitHub
-- VS Code
-- Postman
+### 🍽️ Reserva de Restaurante
+Sistema desenvolvido em Vue.js para gerenciamento de reservas de mesas em restaurantes.
 
-## 📚 Atualmente estudando
+### 📚 App para Gerenciamento de Estudos
+Aplicação desenvolvida em TypeScript para auxiliar estudantes na organização de tarefas, horários e acompanhamento de estudos.
 
-- Vue.js + TypeScript
-- Python
-- Firebase
-- APIs REST
-- Arquitetura de Software
-- Desenvolvimento Mobile
+### 👖 Gestão Jeans
+Sistema web voltado para controle e gerenciamento de uma empresa do setor têxtil.
 
-## 💼 Projetos em destaque
+### 🌐 Projeto Vue
+Projeto desenvolvido para praticar conceitos de Vue.js, componentes, rotas e gerenciamento de estado.
 
-### 
+### 💡 Leomartis
+Projeto pessoal para experimentação de novas tecnologias e desenvolvimento de funcionalidades web.
 
-### 📱 Aplicativo Mobile
-Aplicação desenvolvida com React Native focada em experiência do usuário e integração com APIs.
+---
 
-### 🔥 Sistema com Firebase
-Projeto utilizando autenticação e banco de dados Firestore.
+## 📊 Estatísticas GitHub
 
-## 📈 Estatísticas GitHub
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+## 🎯 Objetivos
+
+- Aprimorar conhecimentos em Vue.js e TypeScript
+- Desenvolver aplicações escaláveis
+- Aprender arquitetura de software
+- Evoluir no desenvolvimento Full Stack
+- Contribuir para projetos open source
+
+---
 
 ## 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/leonardo-fermino-2272b6337
-- Email: lfermino044@gmail.com
+📧 Email: lfermino044@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/leonardo-fermino-2272b6337
 
 ---
-⭐ Sempre em busca de novos desafios e aprendizado.
+
+⭐ Sempre aprendendo, construindo e evoluindo como desenvolvedor.
  
 
 ### 🤖 Linguagens e Tecnologias
