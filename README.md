@@ -72,9 +72,9 @@ Projeto pessoal para experimentação de novas tecnologias e desenvolvimento de 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfermino044&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leomartis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfermino044&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomartis&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -103,7 +103,7 @@ Projeto pessoal para experimentação de novas tecnologias e desenvolvimento de 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lfermino044&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=leomartis&theme=tokyonight&row=1&column=6"/>
 
 </div>
 
