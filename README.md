@@ -190,16 +190,11 @@ Projeto pessoal para experimentação de novas tecnologias e desenvolvimento de 
 ### 📊 Estatísticas
 
 <p>
-  <p align="center">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=lfermino044&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+ <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfermino044&show_icons=true&theme=github_dark&locale=pt-br"/>
 
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfermino044&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfermino044&layout=compact&theme=github_dark"/>
+</div>
 </p>
 
 </p>
